@@ -22,7 +22,7 @@
                         "online": "https://www.e-gizmo.net"
                     },
                     "name": "Gizduino AVR Boards",
-                    "size": "276546",
+                    "size": "276529",
                      "boards": [
                      {"name": "Gizduino X (ATmega1281)"},
                      {"name": "Gizduino IOT-644"},
